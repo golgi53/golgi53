@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, GIS and Earth Sciences
 - 🌱 I’m currently learning Python, NumPy and Pandas
 - 💞️ I’m looking to collaborate on learning Python 
-- 📫 How to reach me 
+- 📫 How to reach me semihcan53@gmail.com
 
 <!---
 golgi53/golgi53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
