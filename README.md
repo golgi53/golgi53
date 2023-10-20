@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @golgi53
+- 👋 Hi, I’m Semih aka @golgi53
+- 🌍 I'm a UK based Data Scientist with Eart Sciences background
 - 👀 I’m interested in Data Science, GIS and Earth Sciences
 - 🌱 I’m currently learning Python, NumPy and Pandas
 - 💞️ I’m looking to collaborate on learning Python 
